@@ -1,1 +1,27 @@
+body{
+  background-color:#F9F6EE;
+  font-family: serif;
+  font: 2px;
+}
 
+.top-header{
+ 
+  text-align: left;
+  line-height: 4px;
+  border-bottom: 2px solid;
+  
+}
+
+.skills_summary {
+  
+  display: flex;
+  
+
+}
+
+.column{
+  flex: 50%;
+  
+  padding: 10px;
+  
+}
